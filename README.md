@@ -38,7 +38,7 @@ Este projeto Spring Boot implementa um sistema de pedágio simples com cálculo 
 
    gradlew.bat bootRun  (Windows)
 
-   # Endpoints no Postman
+# Endpoints no Postman:
 
 - **Listar Tabela de Preços:**
   - **Método:** GET
